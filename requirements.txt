@@ -1,0 +1,7 @@
+
+Flask
+gunicorn
+dnspython
+tldextract
+requests
+python-dotenv
